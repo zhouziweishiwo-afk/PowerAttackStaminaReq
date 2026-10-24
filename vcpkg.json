@@ -1,0 +1,12 @@
+{
+    "name": "power-attack-stamina-requirement",
+    "version-string": "1.0.0",
+    "homepage": "",
+    "description": "Skyrim SE/AE SKSE plugin: blocks power attacks when current stamina is below the real cost.",
+    "license": "MIT",
+    "dependencies": [
+        "commonlibsse-ng-fork",
+        "spdlog"
+    ],
+    "builtin-baseline": "cc288af760054fa489574bd8e22d05aa8fa01e5c"
+}
